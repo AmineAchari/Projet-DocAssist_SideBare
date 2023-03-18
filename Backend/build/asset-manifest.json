@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cb8caa49.css",
+    "main.js": "./static/js/main.b875065b.js",
+    "static/media/background-docassist.jpg": "./static/media/background-docassist.abcadf57a487ab525754.jpg",
+    "index.html": "./index.html",
+    "main.cb8caa49.css.map": "./static/css/main.cb8caa49.css.map",
+    "main.b875065b.js.map": "./static/js/main.b875065b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb8caa49.css",
+    "static/js/main.b875065b.js"
+  ]
+}
