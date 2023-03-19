@@ -3,6 +3,8 @@ import React from "react";
 import SubmitButton from "../SubmitButton/SubmitButton";
 import UserStore from "../UserStore";
 import InputField from "../InputField/InputField";
+// import assets from "../../assets/index";
+
 
 class LoginForm extends React.Component {
   constructor(props) {
@@ -68,7 +70,7 @@ class LoginForm extends React.Component {
   render() {
     return (
       <div className="loginform">
-        {/* <img style={{ width: "70%" }} src={assets.images.logo} /> */}
+        {/* <img style={{ width: "70%" }} src={{''}} /> */}
         <InputField
           type="text"
           placeholder="Username"

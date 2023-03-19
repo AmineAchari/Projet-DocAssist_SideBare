@@ -1,8 +1,9 @@
 import React from 'react'
+import Container from '../Components/Container/Container'
 
 const Calendrier = () => {
   return (
-    <h1>Calendrier</h1>
+    <Container>Calendrier</Container>
   )
 }
 

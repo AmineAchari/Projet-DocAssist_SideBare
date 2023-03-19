@@ -1,8 +1,11 @@
 import React from 'react'
+import Container from '../Components/Container/Container'
 
 const Patients = () => {
   return (
-    <h1>Patients</h1>
+    <Container>
+      Patients
+    </Container>
   )
 }
 
